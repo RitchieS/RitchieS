@@ -49,7 +49,7 @@
   <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1234-56789"><img src="https://img.shields.io/badge/-🐛%20CVE--1234--56789-000"></a>
 </div> -->
 
-<div align="center">
+/*<div align="center">
   <h4>🚩 Capture the flag 🚩</h4>
   <img src="https://img.shields.io/badge/-%F0%9F%95%B8%20Web%2B%2B-333" alt="Web">
   <img src="https://img.shields.io/badge/-%F0%9F%94%90%20Crypto%2B-333" alt="Crypto">
@@ -69,4 +69,4 @@
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitchieS&hide=excluded&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=ffffff&hide_border=false&border_radius=25&langs_count=8" /> -->
     <!-- <img src="https://activity-graph.herokuapp.com/graph?username=RitchieS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
   </a>
-</div>
+</div> */
